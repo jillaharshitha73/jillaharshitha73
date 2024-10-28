@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jillaharshitha73
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently Studying B.Tech 3rd Year.
+- 🌱 I’m currently Studying B.Tech 3rd Year in Prasad V Potluri Siddhartha Institute of Technology.
 <!---
 jillaharshitha73/jillaharshitha73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
